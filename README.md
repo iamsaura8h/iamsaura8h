@@ -1,5 +1,8 @@
+![image](https://github.com/user-attachments/assets/1ebd8cb3-1d90-4692-8c15-5c5b2a191275)
+
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 <h3 align="center">MERN stack MVP, with UX that never goes offside!</h3>
+<img align="right" alt="photo" src="https://64.media.tumblr.com/2f5aa70361a1a6e1e92e0ee1a014402e/398689ee18bb6036-90/s540x810/42994429c121763034bbe4afad8dc226b3555bf1.gifv"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsaura8h&label=Profile%20views&color=0e75b6&style=flat" alt="iamsaura8h" /> </p>
 
