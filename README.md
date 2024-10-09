@@ -1,13 +1,11 @@
-![image](https://github.com/user-attachments/assets/1ebd8cb3-1d90-4692-8c15-5c5b2a191275)
+![image](https://github.com/user-attachments/assets/2c613af6-e464-4baa-991a-7910edb7a5df)
+
 
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 <h3 align="center">MERN stack MVP, with UX that never goes offside!</h3>
-<img align="right" alt="photo" src="https://64.media.tumblr.com/2f5aa70361a1a6e1e92e0ee1a014402e/398689ee18bb6036-90/s540x810/42994429c121763034bbe4afad8dc226b3555bf1.gifv"
+<img align="right" alt="photo" src="https://internal-blog.contentstudio.io/wp-content/uploads/2023/09/giphy-9.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsaura8h&label=Profile%20views&color=0e75b6&style=flat" alt="iamsaura8h" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsaura8h" alt="iamsaura8h" /></a> </p>
-
 - 🔭 I’m currently working on **GirlScript Summer of Code**
 
 - 🌱 I’m currently learning **Next.js**
@@ -24,7 +22,6 @@
 
 - ⚡ Fun fact **As a creative midfielder, I can assist with code and design like I’m setting up the perfect goal!**
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
