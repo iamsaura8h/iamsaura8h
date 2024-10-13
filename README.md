@@ -19,7 +19,7 @@
 ### 🚀 About Me
 - 🔭 I’m currently working on **GirlScript Summer of Code**
 - 🌱 I’m currently learning **Next.js**
-- 🤝 I’m looking for help with **FullStack MERN devs**
+- 🤝 I’m looking for help with **FullStack MERN and Next.js devs**
 - 👨‍💻 All of my projects are available at **[upcoming soon](#)** 
 - 📝 I regularly write articles on [Medium](https://medium.com/@iamsaura8h)
 - 💬 Ask me about **React and UI/UX Designs**
