@@ -8,11 +8,12 @@
 
 
 
+
 <div style="margin-top: 20px;"></div>
 
 <p align="right">
 <div style="margin-top: 20px;"></div>
-  <img align="right" alt="photo" src="https://internal-blog.contentstudio.io/wp-content/uploads/2023/09/giphy-9.gif" width="300" height="200" margin-top="50"/>
+  <img align="right" alt="photo" src="https://i.pinimg.com/originals/d7/31/dd/d731dd2d3c5bfc2f89ad0e8099d42188.gif" width="300" height="200" margin-top="50"/>
 </p>
 
 <p align="left"> 
