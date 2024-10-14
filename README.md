@@ -1,7 +1,10 @@
 ![Banner Image](https://github.com/user-attachments/assets/2c613af6-e464-4baa-991a-7910edb7a5df)
 
 <h1 align="center">👋 Hi, I'm Saurabh Kumar</h1>
-<h3 align="center">🌟 MERN Stack MVP, with UX that never goes offside!</h3>
+<h3 align="center">🌟🌟 "Looking for a MERN Stack dev with UX so good, it’ll make your competitors settle out of court? Don’t worry, I’ve got the solution you need before you even know you need it! You’ve just found the best deal in the business!" 🌟
+
+</h3>
+<h1 align="center"> Better call Saurabh! 😉</h1>
 
 
 
