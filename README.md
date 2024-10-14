@@ -13,7 +13,7 @@
 
 <p align="right">
 <div style="margin-top: 20px;"></div>
-  <img align="right" alt="photo" src="https://i.pinimg.com/originals/d7/31/dd/d731dd2d3c5bfc2f89ad0e8099d42188.gif" width="300" height="200" margin-top="50"/>
+  <img align="right" alt="photo" src="https://media1.tenor.com/m/MZm9s4Y2a8MAAAAC/dirty-bubblegum-sweater-saul-goodman.gif" width="300" height="200" margin-top="50"/>
 </p>
 
 <p align="left"> 
