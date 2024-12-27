@@ -21,7 +21,7 @@
 </p>
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **GirlScript Summer of Code**
+- 🔭 I’m currently working as an intern at **Skoolsaver Pvt. Ltd.**
 - 🌱 I’m currently learning **Next.js**
 - 🤝 I’m looking for help with **FullStack MERN and Next.js devs**
 - 👨‍💻 All of my projects are available at **[upcoming soon](#)** 
