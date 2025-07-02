@@ -38,7 +38,7 @@
   <a href="https://twitter.com/iamsaura8h" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/saurabh-kumar-a3706a1ab" target="blank">
+  <a href="https://linkedin.com/in/iamsaura8h" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://medium.com/@iamsaura8h" target="blank">
@@ -131,7 +131,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamsaura8h&show_icons=true&locale=en" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsaura8h&" alt="Streak stats" />
 </p>
 
 
