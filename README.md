@@ -1,19 +1,16 @@
-![Banner Image](https://github.com/user-attachments/assets/2c613af6-e464-4baa-991a-7910edb7a5df)
 
-<h1 align="center">👋 Hi, I'm Saurabh Kumar</h1>
-<h3 align="center">🌟🌟 "Looking for a MERN Stack dev with UX so good, it’ll make your competitors settle out of court? Don’t worry, I’ve got the solution you need before you even know you need it! You’ve just found the best deal in the business!" 🌟
 
+<h1 align="center">👋 Hi, I'm Saurabh </h1>
+<h3 align="center" > Now in this Tech Market with millions of engineers you need someone whom you can trust. Now in this "Golden" Economy you need a man who says what he does and does what he says. Someone who vibe with code and not vibeCode ? someone with userCentric product development?
 </h3>
-<h1 align="center"> Better call Saurabh! 😉</h1>
+<h1 align="center"><em>Better call Sau!</em> 😉</h1>
 
-
-[![An image of @iamsaura8h's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamsaura8h)](https://holopin.io/@iamsaura8h)
 
 <div style="margin-top: 20px;"></div>
 
 <p align="right">
 <div style="margin-top: 20px;"></div>
-  <img align="right" alt="photo" src="https://media1.tenor.com/m/MZm9s4Y2a8MAAAAC/dirty-bubblegum-sweater-saul-goodman.gif" width="300" height="200" margin-top="50"/>
+  <img align="right" alt="photo" src="https://media1.tenor.com/m/MZm9s4Y2a8MAAAAC/dirty-bubblegum-sweater-saul-goodman.gif" width="350" height="300" />
 </p>
 
 <p align="left"> 
@@ -21,16 +18,20 @@
 </p>
 
 ### 🚀 About Me
-- 🔭 I’m currently working as an intern at **Skoolsaver Pvt. Ltd.**
-- 🌱 I’m currently learning **Next.js**
-- 🤝 I’m looking for help with **FullStack MERN and Next.js devs**
-- 👨‍💻 All of my projects are available at **[upcoming soon](#)** 
+- 📜 My Portfolio **saurabhfolio.vercel.app**
+- 🏢 I have worked as an intern at **Skoolsaver Pvt. Ltd.**
+- 🌱 I’m currently learning **Spring Boot**
+- 🤝 I’m looking for help with **AI/ML and MERN**
+- 👨‍💻 All of my projects are available in this github profile
 - 📝 I regularly write articles on [Medium](https://medium.com/@iamsaura8h)
-- 💬 Ask me about **React and UI/UX Designs**
-- 📫 Reach out: **[saurabh10@gmail.com](mailto:saurabh10@gmail.com)**
+- 💬 Ask me about **MERN Stack and Gen-Ai**
+- 📫 Reach out: **[saurabh10.pro@gmail.com](mailto:saurabh10.pro@gmail.com)**
 - ⚡ Fun fact: **As a creative midfielder, I can assist with code and design like I’m setting up the perfect goal!**
+- ⚽ Hobbies : Football, Trekking, Creating fun but user-centric projects
 
 ---
+
+[![An image of @iamsaura8h's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamsaura8h)](https://holopin.io/@iamsaura8h)
 
 ### 🌐 Connect with me:
 <p align="left">
@@ -132,6 +133,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=iamsaura8h&show_icons=true&locale=en" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsaura8h&" alt="Streak stats" />
 </p>
+
+
 
 
 ---
